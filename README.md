@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
 learning project
-[![Actions Status](https://github.com/Valeriya-Makhmutova/hexlet-my-first-workflow/workflows/hexlet-check/badge.svg)](https://github.com/Valeriya-Makhmutova/hexlet-my-first-workflow/actions)
+[![hello-world](https://github.com/Valeriya-Makhmutova/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Valeriya-Makhmutova/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
